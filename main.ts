@@ -59,7 +59,7 @@ enum ServoRotation {
     CounterClockwise = 2,
 }
 
-//% weight=100 color=#1E88E5 icon="\uf085" block="Motors"
+//% weight=100 color=#1E88E5 icon="\uf1b9" block="Motors"
 namespace motors {
 
     // --- Motor pin mapping ---
