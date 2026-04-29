@@ -30,9 +30,9 @@
  */
 
 enum Motor {
-    //% block="1"
+    //% block="A"
     M1 = 1,
-    //% block="2"
+    //% block="B"
     M2 = 2,
 }
 
